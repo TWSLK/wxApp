@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <image class="user-avatar" src="/images/avatar/4.png" ></image>
+  <text class="user-name">Hello,TESLA</text>
+  <view class="moto-container">
+    <navigator class="moto" url="../posts/post" open-type="switchTab">开启小程序之旅</navigator>
+  </view>
+</view>
